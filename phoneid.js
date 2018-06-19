@@ -1,7 +1,7 @@
 const axios = require('axios')
 const _ = require('lodash')
 const fs = require('fs')
-let filename = 'result_1906 (2)'
+let filename = 'test'
 let path_scaned_fail = 'notFound_phone.txt'
 let path_scaned_success = 'result/_ALL.txt'
 // let dataScaned_fail = fs.readFileSync(path_scaned_fail).toString()
